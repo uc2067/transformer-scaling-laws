@@ -1,0 +1,12 @@
+torch
+numpy
+datasets
+tokenizers
+lxml
+cairosvg
+sentencepiece
+mup
+matplotlib
+scipy
+Pillow
+psutil
