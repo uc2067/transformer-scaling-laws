@@ -1,0 +1,9 @@
+{
+  "perplexity": 1.84,
+  "xml_validity_rate": 0.6,
+  "render_rate": 0.6,
+  "prefix_render_rate": 0.6,
+  "model": "large",
+  "n_params": 35850000,
+  "val_loss": 0.5967
+}
